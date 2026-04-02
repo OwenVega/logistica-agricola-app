@@ -1,18 +1,12 @@
-🚜 Sistema de Logística Agrícola
+# 🚜 Sistema de Logística Agrícola
 
-Aplicación enfocada en la gestión, control y administración de recursos y procesos logísticos para parcelas en el sector de la agricultura.
+Aplicación diseñada para la gestión, control y optimización de los procesos logísticos y recursos en parcelas agrícolas.
 
-## Sobre el Proyecto
-Este proyecto fue diseñado e implementado de manera visual utilizando **FlutterFlow**, enfocándose en crear una interfaz intuitiva y eficiente para optimizar el trabajo en el entorno agrícola.
+## 🛠️ Stack Tecnológico
 
-### Vistas de la Aplicación
+* **Frontend y Desarrollo Visual:** FlutterFlow (exportado en lenguaje Dart / framework Flutter).
+* **Backend y Base de Datos:** Supabase (para la conexión, almacenamiento y gestión de la información de la aplicación).
 
-<img width="490" height="945" alt="image" src="https://github.com/user-attachments/assets/4ae1f3f9-0244-4993-9b49-790e9ae9b114" />
+## 💻 Sobre el Repositorio
 
-## 🛠️ Tecnologías y Herramientas
-* **Desarrollo Visual:** FlutterFlow
-* **Enfoque:** Gestión de base de datos, Lógica de procesos.
-
-* ## 💡 Características principales
-* Organización y control de recursos de la parcela.
-* Interfaz amigable orientada a dispositivos móviles.
+El proyecto fue desarrollado de forma colaborativa, dividiendo las funcionalidades por Casos de Uso (CU). Este repositorio contiene el código fuente exportado desde la plataforma, donde se puede visualizar la estructura de la aplicación, las páginas principales y la lógica detrás de la gestión de inventario y usuarios.
